@@ -4,7 +4,7 @@
 #
 Name     : rubygem-github-markup
 Version  : 1.4.0
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/github-markup-1.4.0.gem
 Source0  : https://rubygems.org/downloads/github-markup-1.4.0.gem
 Summary  : No detailed summary available
